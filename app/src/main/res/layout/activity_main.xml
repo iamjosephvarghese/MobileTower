@@ -27,4 +27,42 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         />
+
+
+
+    <TextView
+        android:id="@+id/simple"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="new section"
+        />
+
+
+
+    <TextView
+        android:id="@+id/deviceid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/networkoperator"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/networkoperatorname"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/networktype"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/networkcountryiso"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+
 </LinearLayout>
